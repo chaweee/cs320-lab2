@@ -1,1 +1,3 @@
-# cs320-lab2
+# Squink Inc
+
+We provide no services.
